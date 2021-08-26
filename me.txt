@@ -1,0 +1,4 @@
+AWS API Gateway trên AWS Cloud
+    swagger
+    Check event value in lambda by Postman
+        return json.dumps(event)
